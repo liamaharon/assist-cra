@@ -1,6 +1,6 @@
-export const address = '0x9e7ae8c4d07670df36fdb88c1b3ae06dc4625fa0';
+const address = '0x9e7ae8c4d07670df36fdb88c1b3ae06dc4625fa0';
 
-export const abi = [
+const abi = [
   {
     constant: true,
     inputs: [{ name: '', type: 'address' }],
@@ -75,3 +75,8 @@ export const abi = [
     type: 'function'
   }
 ];
+
+export default {
+  address,
+  abi
+};

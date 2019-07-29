@@ -2125,7 +2125,7 @@ bn.js@4.11.8, bn.js@^4.0.0, bn.js@^4.1.0, bn.js@^4.1.1, bn.js@^4.11.6, bn.js@^4.
   resolved "https://registry.yarnpkg.com/bn.js/-/bn.js-4.11.8.tgz#2cde09eb5ee341f484746bb0309b3253b1b1442f"
   integrity sha512-ItfYfPLkWHUjckQCk8xC+LwxgK8NYcXywGigJgSwOP8Y2iyWT4f2vsZnoOXTTbo+o5yXmIUJ4gn5538SO5S3gA==
 
-bnc-assist@^0.9.6:
+bnc-assist@0.9.6:
   version "0.9.6"
   resolved "https://registry.yarnpkg.com/bnc-assist/-/bnc-assist-0.9.6.tgz#37e11f8dd972b750f7c696ed0a93850a5433de34"
   integrity sha512-Cl6MCtgkUYeLSim7DaqmvuEH6LvWjctGUvSdetYBXfTjq0eHtpf2v898pwZO7Gil4we/G6iRlTCR6JgfaN55JA==
@@ -11695,7 +11695,6 @@ websocket-extensions@>=0.1.1:
 
 "websocket@github:frozeman/WebSocket-Node#browserifyCompatible":
   version "1.0.26"
-  uid "6c72925e3f8aaaea8dc8450f97627e85263999f2"
   resolved "https://codeload.github.com/frozeman/WebSocket-Node/tar.gz/6c72925e3f8aaaea8dc8450f97627e85263999f2"
   dependencies:
     debug "^2.2.0"
